@@ -13,3 +13,8 @@ We use the famous [UCI Adult Census Income dataset](https://archive.ics.uci.edu/
 5. **Documentation**: We create a datasheet for the dataset and a model card for our most fair model.
 6. **References**
 
+# Getting Started
+
+To run the notebook locally just install all required packages.
+
+`pip install -r requirements.txt`
